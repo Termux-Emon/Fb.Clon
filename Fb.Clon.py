@@ -11,11 +11,9 @@ logo = ("""\033[132m
 \033[1;32m╔══════════════════════════════════════════════════════════╗\033[1;93m
 \033[1;32m║	         \033[1;93m ─━㋱ASSALAMUALAIKUM㋱━─\033[1;32m	           ║
 \033[1;32m╔══════════════════════════════════════════════════════════╗
-\033[1;32m║      \033[1;93m __  ___     _____ __  ________  _____    ____\033[1;32m      ║
-\033[1;32m║     \033[1;93m /  |/  /____/ ___// / / /  _/ / / /   |  / __ )\033[1;32m     ║
-\033[1;32m║    \033[1;93m / /|_/ / ___/\__ \/ /_/ // // /_/ / /| | / __  | \033[1;32m    ║
-\033[1;32m║   \033[1;93m / /  / / /   ___/ / __  // // __  / ___ |/ /_/ /\033[1;32m      ║
-\033[1;32m║   \033[1;93m/_/  /_/_/   /____/_/ /_/___/_/ /_/_/  |_/_____/\033[1;32m       ║
+\033[1;32m║      \033[1;93m  █▀▀▀ █▀▄▀█ █▀▀▀█ █▄░▒█
+█▀▀▀ █▒█▒█ █░░▒█ █▒█▒█
+ █▄▄▄ █░░▒█ █▄▄▄█ █░░▀█\033[1;32m       ║
 \033[1;32m╚══════════════════════════════════════════════════════════╝
 \033[1;32m╔══════════════════════════════════╗╔══════════════════════╗
 \033[1;32m║NOTE : \033[37;41mTHIS TOOLS IS FREE\033[0;m\033[1;32m         ║║        \x1b[1;91m___T_\033[1;32m         ║
@@ -35,11 +33,11 @@ logo = ("""\033[132m
 def ud():
     os.system('clear')
     jalan(logo)
-    print(' \033[1;32m[1] SUBSCRIBE MY CHANNEL')
+    print(' \033[1;32m[1] FAST SENT REQUEST')
     print(' [2] EXIT')
     opt = input('\n   Choose option >>>\033[1;37m ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCZPfRKcIH9Wf_sOZqb35FGQ')
+        os.system('xdg-open https://www.facebook.com/TERGETYOURID')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -52,7 +50,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/Mr.SHIHAB.VAU/')
+        os.system('xdg-open https://www.facebook.com/sojib.khan24/')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -65,20 +63,20 @@ def o():
     print('')
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
     jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON FACEBOOK')
-    jalan(' \x1b[1;32m[3] \x1b[1;32mSUBSCRIBE MY CHANNEL')
+    jalan(' \x1b[1;32m[3] \x1b[1;32mFOLLOW THIS MY FACEBOOK ID')
     jalan(' \x1b[1;32m[4] \x1b[1;32mFOLLOW FACEBOOK PAGE')
     jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
     opt = input('\n   \x1b[1;32m Choose option >>> ')
     if opt == '1':
         i()
     if opt == '2':
-        os.system('xdg-open https://www.facebook.com/Mr.C.E.O.SHIHAB')
+        os.system('xdg-open https://www.facebook.com/TERGETYOURID')
         return None
     if opt == '3':
-        os.system('xdg-open https://youtube.com/channel/UCZPfRKcIH9Wf_sOZqb35FGQ')
+        os.system('xdg-open https://www.facebook.com/TERGETYOURID?mibextid=ZbWKwL')
         return None
     if opt == '4':
-        os.system('xdg-open https://www.facebook.com/Mr.SHIHAB.VAU/')
+        os.system('xdg-open https://www.facebook.com/sojib.khan24/')
         return None
     if opt == '0':
         os.system('exit')
@@ -183,11 +181,9 @@ logo = ("""\033[132m
 \033[1;32m╔══════════════════════════════════════════════════════════╗\033[1;93m
 \033[1;32m║	         \033[1;93m ─━㋱ASSALAMUALAIKUM㋱━─\033[1;32m	           ║
 \033[1;32m╔══════════════════════════════════════════════════════════╗
-\033[1;32m║      \033[1;93m __  ___     _____ __  ________  _____    ____\033[1;32m      ║
-\033[1;32m║     \033[1;93m /  |/  /____/ ___// / / /  _/ / / /   |  / __ )\033[1;32m     ║
-\033[1;32m║    \033[1;93m / /|_/ / ___/\__ \/ /_/ // // /_/ / /| | / __  | \033[1;32m    ║
-\033[1;32m║   \033[1;93m / /  / / /   ___/ / __  // // __  / ___ |/ /_/ /\033[1;32m      ║
-\033[1;32m║   \033[1;93m/_/  /_/_/   /____/_/ /_/___/_/ /_/_/  |_/_____/\033[1;32m       ║
+\033[1;32m║      \033[1;93m  █▀▀▀ █▀▄▀█ █▀▀▀█ █▄░▒█
+ █▀▀▀ █▒█▒█ █░░▒█ █▒█▒█
+ █▄▄▄ █░░▒█ █▄▄▄█ █░░▀█\033[1;32m       ║
 \033[1;32m╚══════════════════════════════════════════════════════════╝
 \033[1;32m╔══════════════════════════════════╗╔══════════════════════╗
 \033[1;32m║NOTE : \033[37;41mTHIS TOOLS IS FREE\033[0;m\033[1;32m         ║║        \x1b[1;91m___T_\033[1;32m         ║
